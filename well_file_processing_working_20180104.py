@@ -22,8 +22,7 @@ import pandas as pd
 from datetime import datetime
 import matplotlib.dates as mdates
 from scipy import stats
-#from transducer_csv_process import master_process
-#from dtw_predict import depth_calculate
+
 
 
 def write_file(full):
